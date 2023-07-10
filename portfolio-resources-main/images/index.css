@@ -174,13 +174,11 @@ margin-top: 0px;
  .footer-column{
 width: 50%;
  }
-.social-links{
-    gap: 50px;
-}
 
- .contact input[type="text"], .contact input[type="email"], textarea{
+
+ .contact input[type="text"], textarea{
     display: block;
-    margin-bottom: 25px;
+    margin-bottom: 70px;
     padding: 18px 35px;
     color:#757575;
     border-radius:5px;
